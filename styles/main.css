@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#theories {
+    margin: 0 auto;
+    font-family: Lato;
+    color: #000;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    width: 704px;
+    margin-top: 48px;
+}
+
+#overview {
+    margin: 0 auto;
+    color: #ff8000;
+    width: 1220px;
+    text-align: center;
+    font-family: Lato;
+    font-style: normal;
+    font-size: 24px;
+    margin-top: 53px;
+}
+
+#bigbang {
+    color: #d9ae00;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 75px;
+    margin-top: 63px;
+}
+
+#recent {
+    margin-top: 24px;
+    margin-left: 75px;
+    color: #6D81b4;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    width: 681px;
+}
+
+#cosmos {
+    width: 696px;
+    margin-left: 67px;
+    margin-top: 30px;
+
+}
+
+#border {
+    width: 1007px;
+    height: 717px;
+    padding: 64px;
+    text-align: center;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+    background: #FFCEBE;
+    margin-top: 101px;
+    margin-left: 74px;
+    margin-right: 839px;
+}
+
+#black{
+    color: #F44E50;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    text-transform: uppercase;
+
+}
+
+#hole {
+    margin-top: 24px;
+    margin-left: 163px;
+    margin-right: 163px;
+    color: #8B2b2C;
+    text-align: center;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+
+}
+
+#star {
+    margin-top: 30px;
+    margin-bottom: 64px;
+}
+
+#string {
+        color: #4716E4;
+        font-family: Lato;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+        text-transform: uppercase;
+        width: 696px;
+        margin-top: 101px;
+        margin-left: 461px;
+}
+
+#box {
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+    text-align: center;
+    width: 696px;
+    margin-left: 74px;
+    margin-top: 24px;
+}
+
+#filaments {
+    color: #616161;
+    text-align: right;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+#points {
+    color:  #414651;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    margin-left: 74px;
+    margin-top: 30px;
+}
+
+#list{
+    margin-left: 102px;
+    margin-top: 16px;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    width: 668px;
+}
+
+
+ul {
+    list-style-type: none;
+    list-style-image: url(../images/bullet.svg);
+}
+
+#seperator {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#strings {
+    margin-top: 30px;
+    margin-left: 74px;
+}
